@@ -1,2 +1,2 @@
-# Customer-support-Cahtbot
+# Customer-support-Chatbot
 Bubble chatbot in website
