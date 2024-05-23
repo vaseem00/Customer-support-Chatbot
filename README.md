@@ -1,2 +1,2 @@
 # Customer-support-Chatbot
-Bubble chatbot in website
+AI Bubble chatbot in website using Langchain and OpenAI models 
